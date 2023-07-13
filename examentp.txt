@@ -1,3 +1,7 @@
 initialiser l 'examen
+
 master branch est la branche de code source principale
 une partie de code source est la branche master 
+
+branch_exam est la branche de code source
+
